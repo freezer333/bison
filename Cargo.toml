@@ -1,0 +1,7 @@
+[package]
+name = "bison"
+version = "0.1.0"
+authors = ["Scott Frees <scott.frees@gmail.com>"]
+edition = "2018"
+
+[dependencies]
